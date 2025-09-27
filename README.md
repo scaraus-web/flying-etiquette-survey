@@ -25,8 +25,8 @@ This project uses survey data to uncover **who thinks what’s rude in the sky**
 - Removed duplicates and missing values.  
 - Normalized categories (e.g., age groups, travel frequency labels).  
 - Exported cleaned dataset for visualization.  
-- Notebook: [`notebooks/Flying etiquette cleaning.ipynb`](./notebooks/Flying%20etiquette%20cleaning.ipynb)  
-- Clean dataset: [`data/flying-etiquette_cleaned.csv`](./data/flying-etiquette_cleaned.csv)
+- Notebook: [`[notebooks/Flying etiquette cleaning.ipynb`](./notebooks/Flying%20etiquette%20cleaning.ipynb](https://github.com/scaraus-web/flying-etiquette-survey/blob/main/notebook/Flying%20etiquette%20cleaning.ipynb))  
+- Clean dataset: [`[data/flying-etiquette_cleaned.csv`](./data/flying-etiquette_cleaned.csv](https://github.com/scaraus-web/flying-etiquette-survey/blob/main/data/flying-etiquette_clean.csv))
 
 ### 2. Visualization (Tableau Public)
 - Built dashboards with **filters and interactive views**:
