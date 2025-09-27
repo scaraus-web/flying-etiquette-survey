@@ -1,7 +1,7 @@
 # 🛫 Exploring Passenger Etiquette: Who Thinks What’s Rude?
 
 **Tools:** Python (pandas) for cleaning • Jupyter Notebook • Tableau Public for visualization  
-**Live dashboard:** 👉 [View on Tableau Public]([https://public.tableau.com/views/REPLACE_WITH_YOUR_LINK](https://public.tableau.com/app/profile/serge.caraus/viz/FlyingEtiquetteSurveyDashboard/FlyingEtiquetteSurveyDashboard))  <!-- ✅ replace -->
+**Live dashboard:** 👉 [View on Tableau Public](https://public.tableau.com/app/profile/serge.caraus/viz/FlyingEtiquetteSurveyDashboard/FlyingEtiquetteSurveyDashboard)
 
 ---
 
@@ -25,8 +25,8 @@ This project uses survey data to uncover **who thinks what’s rude in the sky**
 - Removed duplicates and missing values.  
 - Normalized categories (e.g., age groups, travel frequency labels).  
 - Exported cleaned dataset for visualization.  
-- Notebook: [`[notebooks/Flying etiquette cleaning.ipynb`](./notebooks/Flying%20etiquette%20cleaning.ipynb](https://github.com/scaraus-web/flying-etiquette-survey/blob/main/notebook/Flying%20etiquette%20cleaning.ipynb))  
-- Clean dataset: [`[data/flying-etiquette_cleaned.csv`](./data/flying-etiquette_cleaned.csv](https://github.com/scaraus-web/flying-etiquette-survey/blob/main/data/flying-etiquette_clean.csv))
+- Notebook: [Flying etiquette cleaning.ipynb](https://github.com/scaraus-web/flying-etiquette-survey/blob/main/notebook/Flying%20etiquette%20cleaning.ipynb)  
+- Clean dataset: [flying-etiquette_clean.csv](https://github.com/scaraus-web/flying-etiquette-survey/blob/main/data/flying-etiquette_clean.csv)
 
 ### 2. Visualization (Tableau Public)
 - Built dashboards with **filters and interactive views**:
@@ -34,7 +34,7 @@ This project uses survey data to uncover **who thinks what’s rude in the sky**
   - Ranking of “What’s Rude?” behaviors (% respondents).  
   - US choropleth map of regional tolerance.  
   - Demographic selector (income, education, age).  
-- Dashboard link: [View on Tableau Public]([https://public.tableau.com/views/REPLACE_WITH_YOUR_LINK](https://public.tableau.com/app/profile/serge.caraus/viz/FlyingEtiquetteSurveyDashboard/FlyingEtiquetteSurveyDashboard))  
+- Dashboard link: [View on Tableau Public](https://public.tableau.com/app/profile/serge.caraus/viz/FlyingEtiquetteSurveyDashboard/FlyingEtiquetteSurveyDashboard)  
 
 ---
 
