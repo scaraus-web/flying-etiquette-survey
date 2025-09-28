@@ -1,11 +1,11 @@
 # 🛫 Exploring Passenger Etiquette: Who Thinks What’s Rude?
 
 **Tools:** Python (pandas) for cleaning • Jupyter Notebook • Tableau Public for visualization  
-**Live dashboard:** 👉 [View on Tableau Public](https://public.tableau.com/app/profile/serge.caraus/viz/FlyingEtiquetteSurveyDashboard/FlyingEtiquetteSurveyDashboard)
+**Live dashboard:**  [View on Tableau Public](https://public.tableau.com/app/profile/serge.caraus/viz/FlyingEtiquetteSurveyDashboard/FlyingEtiquetteSurveyDashboard)
 
 ---
 
-## ❓ Problem Statement
+##  Problem Statement
 
 Air travel is one of the most common shared spaces where people from different backgrounds interact in close quarters.  
 But what exactly do passengers consider **“rude behavior” on a plane**, and how does that perception vary by **age, gender, travel frequency, region, and income**?  
@@ -19,7 +19,7 @@ This project uses survey data to uncover **who thinks what’s rude in the sky**
 
 ---
 
-## 🧰 Methods
+## Methods
 
 ### 1. Data Cleaning (Python + Jupyter)
 - Removed duplicates and missing values.  
@@ -38,7 +38,7 @@ This project uses survey data to uncover **who thinks what’s rude in the sky**
 
 ---
 
-## 🔎 3 — Key Insights
+##  3 — Key Insights
 - **Top complaints:** *Bringing unruly children* and *waking passengers (walk-around)* dominate.  
 - **Age effect:** Middle-aged travelers are least tolerant.  
 - **Education:** Tolerance rises with higher education.  
