@@ -38,7 +38,7 @@ This project uses survey data to uncover **who thinks what’s rude in the sky**
 
 ---
 
-## 🔎 TL;DR — Key Insights
+## 🔎 3 — Key Insights
 - **Top complaints:** *Bringing unruly children* and *waking passengers (walk-around)* dominate.  
 - **Age effect:** Middle-aged travelers are least tolerant.  
 - **Education:** Tolerance rises with higher education.  
