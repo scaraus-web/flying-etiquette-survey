@@ -1,4 +1,4 @@
-# 🛫 Exploring Passenger Etiquette: Who Thinks What’s Rude?
+#  Exploring Passenger Etiquette: Who Thinks What’s Rude?
 
 **Tools:** Python (pandas) for cleaning • Jupyter Notebook • Tableau Public for visualization  
 **Live dashboard:**  [View on Tableau Public](https://public.tableau.com/app/profile/serge.caraus/viz/FlyingEtiquetteSurveyDashboard/FlyingEtiquetteSurveyDashboard)
